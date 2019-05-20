@@ -1,0 +1,7 @@
+Makefile
+*.html
+*.js
+*.gz
+*.svg
+*.wasm
+.qmake.stash
